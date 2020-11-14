@@ -24,8 +24,8 @@ public class Provider2Controller {
 
         @PostMapping(value = "/2")
         public String deal1(String json){
-            return "【 服务提供方2： 】传递的JSON为："+json;
-        }
+        return "【 服务提供方2： 】传递的JSON为："+json;
+    }
 
 
 }
