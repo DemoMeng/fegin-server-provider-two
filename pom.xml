@@ -54,7 +54,7 @@
     </dependencies>
 
     <!-- 本地私库Nexus地址 -->
-    <repositories>
+    <!--<repositories>
         <repository>
             <id>central</id>
             <name>Maven myself Mirror</name>
@@ -79,7 +79,7 @@
             </snapshots>
         </repository>
 
-    </repositories>
+    </repositories>-->
 
     <dependencyManagement>
         <dependencies>
